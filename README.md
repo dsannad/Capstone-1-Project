@@ -10,7 +10,6 @@ To read project updates such as:
 3) Data Storytelling Report
 4) Inferential Statistics Writeup
 5) Milestone Report
-
 Please visit the Project Progress Reports Folder! 
 
 Direct any questions to annaldamir@gmail.com
